@@ -1,1 +1,1 @@
-This repository -- and all files contained in it unless otherwise explicitly stated -- are copyright Bprotocol Foundation 2021 and later. All rights are reserved. For specific conditions under which those files and/or their content can be shared please see `DISCLAIMER.md`.
+This repository -- and all files contained in it unless otherwise explicitly stated -- are copyright Bprotocol Foundation 2020 and later. All rights are reserved. For specific conditions under which those files and/or their content can be shared please see `DISCLAIMER.md`.

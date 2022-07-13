@@ -2,11 +2,9 @@
 
 _see the DISCLAIMER file before using this repo_
 
-The canonical URL for this repo is [github.com/bancorprotocol/economic-analysis/][url]
+The canonical URL for this repo is [github.com/bancorprotocol/economic-analysis][url]
 
-This repository contains working documents that have been created in the process of developing and running the Bancor Protocol. Those documents have been created for the benefit of specific working groups, and may require contextual information to be interpreted correctly. They also may contain errors -- and in fact they do contain errors -- that the working group is aware of but that have not been corrected for cost/benefit reasons. 
-
-**PLEASE SEE THE DISCLAIMER FOR MORE DETAILS BEFORE YOU PROCEED.**
+This repository contains working documents that have been created in the process of developing and running the Bancor Protocol. Those documents have been created for the benefit of specific working groups, and may require contextual information to be interpreted correctly. They also may contain errors -- and in fact they do contain errors -- that the working group is aware of but that have not been corrected for cost/benefit reasons. **PLEASE SEE THE DISCLAIMER FOR MORE DETAILS BEFORE YOU PROCEED.**
 
 ## Repository Structure
 
